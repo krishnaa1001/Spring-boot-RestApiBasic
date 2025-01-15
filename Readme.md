@@ -1,1 +1,0 @@
-This is Rest Api project simaple project in this not used databased this is distributed application  and handle json and xml file also .We can data in Xml, json data 
